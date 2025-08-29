@@ -23,7 +23,7 @@ int main() {
         printf("it is a right angle triangle:\n");
     }
     else{
-        printf("it is a scalene triangle:\n");
+        printf("it is a Scalene triangle:\n");
     }
 
 
