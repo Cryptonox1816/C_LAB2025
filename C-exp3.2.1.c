@@ -25,6 +25,5 @@ int main(){
      printf("postive numbers are:\n%d\n",p);
      printf("negative numbers are:\n%d\n",n);
      printf("zero%d", z);
-
     return 0;
 }
