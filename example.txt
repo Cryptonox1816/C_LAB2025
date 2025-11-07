@@ -1,0 +1,2 @@
+Hello Kartikey! This is a new file created using C.
+You can add multiple lines of text here.
