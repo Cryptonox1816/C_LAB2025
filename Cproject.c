@@ -1,3 +1,5 @@
+// My name is Kartikey Gupta, batch 36 sapid:590027194.
+// My project is based on Electricity Bill Management System.
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -9,7 +11,7 @@ struct Customer {
     float bill;
 };
 
-// Calculate bill based on slab rates
+// Calculate bill based on given rates
 float calculateBill(float units) {
     if (units <= 100) return units * 5.0f;
     else if (units <= 200) return (100 * 5.0f) + (units - 100) * 7.0f;
